@@ -1,0 +1,65 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+
+# Visual Studio
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# GitHub Copilot
+**/copilot-chat/
+**/CopilotIndices/
+**/FileContentIndex/
+**/sessions/
+**/v17/
+
+# ASP.NET
+appsettings.*.json
+appsettings.Development.json
+
+# Logs
+*.log
+logs/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.Symbols.nupkg
+
+# Publish results
+publish/
+wwwroot/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Coverage / Test
+coverage/
+TestResults/
+*.coverage
+*.coveragexml
+
+# Others
+.env
+.env.*
+*.sqlite
+*.db

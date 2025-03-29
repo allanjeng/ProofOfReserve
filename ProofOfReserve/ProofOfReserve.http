@@ -1,0 +1,6 @@
+@ProofOfReserve_HostAddress = http://localhost:5152
+
+GET {{ProofOfReserve_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
